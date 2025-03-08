@@ -1,7 +1,7 @@
 # Label Studio DuckDB DBT Test
 
 ## 프로젝트 개요
-이 프로젝트는 Label Studio와 DuckDB, DBT(Data Build Tool)를 활용하여 데이터 처리 및 라벨링을 수행하는 환경을 구성하는 데 목적이 있습니다.
+이 프로젝트는 Label Studio와 DuckDB, DBT(Data Build Tool)를 활용하여 데이터 처리 및 라벨링을 수행하는 테스트 환경을 구성하는 데 목적이 있습니다.
 
 ## 폴더 구조
 ```
@@ -17,7 +17,7 @@ LABELSTUDIO-DUCKDB-DBT-TEST/
 ├── .gitignore          # Git에서 제외할 파일 목록
 ├── README.md           # 프로젝트 설명 문서
 ├── test.ipynb          # 데이터 확인 및 분석을 위한 Jupyter Notebook
-├── work/               # 라벨스튜디오 작업 사진진
+├── work/               # 라벨스튜디오 작업 사진
 ```
 
 ## 주요 파일 및 폴더 설명
@@ -25,8 +25,10 @@ LABELSTUDIO-DUCKDB-DBT-TEST/
 - `data/json/` : Label Studio에서 사용할 JSON 파일을 저장하는 폴더입니다.
 - `data/samples/` : Label Studio에서 처리할 이미지 샘플이 위치하는 폴더입니다.
 - `output/json/` : Label Studio에서 처리 완료된 JSON 파일을 저장하는 폴더입니다.
+- `output/import/` : Label Studio에서 직접 임포트해서 처리 파일을 저장하는 폴더입니다.
 - `output/samples/` : Label Studio에서 처리된 이미지 데이터를 저장하는 폴더입니다.
 - `test.ipynb` : Jupyter Notebook을 사용하여 데이터를 분석하거나 시각화하는 데 사용됩니다.
+- `work/` : 라벨스튜디오에서 작업한 화면을 캡처한 이미지 저장 폴더입니다.
 
 ## Label Studio 설정 방법
 1. Label Studio 실행
