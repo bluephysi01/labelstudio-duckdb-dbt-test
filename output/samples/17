@@ -1,0 +1,203 @@
+{
+  "id": 17,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            26.879574184963406,
+            36.327345309381236
+          ],
+          [
+            18.89554224883566,
+            47.30538922155689
+          ],
+          [
+            10.113107119095142,
+            54.091816367265466
+          ],
+          [
+            7.18562874251497,
+            51.49700598802395
+          ],
+          [
+            13.30671989354624,
+            45.10978043912176
+          ],
+          [
+            19.42781104457751,
+            38.92215568862276
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "HgnfnS8HPm",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            60.41250831669993,
+            83.03393213572853
+          ],
+          [
+            69.19494344644045,
+            78.0439121756487
+          ],
+          [
+            75.0499001996008,
+            73.05389221556887
+          ],
+          [
+            70.52561543579507,
+            73.05389221556887
+          ],
+          [
+            65.20292747837658,
+            77.84431137724552
+          ],
+          [
+            60.944777112441784,
+            79.84031936127745
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "5StojuAPHs",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            18.36327345309381,
+            69.061876247505
+          ],
+          [
+            18.89554224883566,
+            75.44910179640718
+          ],
+          [
+            25.815036593479707,
+            79.44111776447106
+          ],
+          [
+            23.952095808383234,
+            74.45109780439122
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "aTNkos9obz",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "NEXEN"
+        ]
+      },
+      "id": "q39Zvc7Pz2",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "265/50/R17"
+        ]
+      },
+      "id": "ZuIB3WbQla",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "4120"
+        ]
+      },
+      "id": "1_Qykxe1al",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 18,
+    "data": {
+      "ocr": "/data/local-files/?d=data%5Csamples%5C20250307_123400.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T07:26:28.584327Z",
+    "updated_at": "2025-03-07T07:26:28.584327Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-08T02:15:02.358729Z",
+  "updated_at": "2025-03-08T02:15:02.358729Z",
+  "draft_created_at": "2025-03-08T02:14:48.349280Z",
+  "lead_time": 40.867,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 7,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

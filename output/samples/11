@@ -1,0 +1,191 @@
+{
+  "id": 11,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            40.7185628742515,
+            19.560878243512974
+          ],
+          [
+            46.83965402528277,
+            21.956087824351297
+          ],
+          [
+            56.9527611443779,
+            22.55489021956088
+          ],
+          [
+            58.815701929474386,
+            19.560878243512974
+          ],
+          [
+            48.43646041250832,
+            18.163672654690618
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "oU7Kev0cIJ",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            24.21823020625416,
+            25.149700598802394
+          ],
+          [
+            27.41184298070526,
+            27.54491017964072
+          ],
+          [
+            33.79906852960745,
+            25.349301397205586
+          ],
+          [
+            32.202262142381905,
+            21.157684630738522
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "_hSVLC_X64",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            83.56620093147039,
+            40.7185628742515
+          ],
+          [
+            85.16300731869593,
+            48.10379241516966
+          ],
+          [
+            87.82435129740519,
+            45.70858283433134
+          ],
+          [
+            87.29208250166334,
+            41.51696606786427
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "vSUiMUeKFS",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "HANKOOK"
+        ]
+      },
+      "id": "uTM3eUNOBH",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "225/55/R19"
+        ]
+      },
+      "id": "J0eKHqOh8K",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "2020"
+        ]
+      },
+      "id": "ikrT7Wu1cB",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 12,
+    "data": {
+      "ocr": "/data/local-files/?d=data%5Csamples%5C20250307_123258.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T07:26:28.520181Z",
+    "updated_at": "2025-03-07T07:26:28.520181Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-08T02:08:18.314424Z",
+  "updated_at": "2025-03-08T02:08:18.314424Z",
+  "draft_created_at": "2025-03-08T02:07:45.421397Z",
+  "lead_time": 92.393,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 7,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

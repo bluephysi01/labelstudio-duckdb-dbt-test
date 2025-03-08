@@ -12,10 +12,12 @@ LABELSTUDIO-DUCKDB-DBT-TEST/
 │   ├── samples/        # 라벨링할 이미지 샘플 폴더
 ├── output/             # 처리된 데이터 저장소
 │   ├── json/           # 라벨링된 JSON 데이터 저장 폴더
-│   ├── samples/        # 처리된 이미지 데이터 저장 폴더
+│   ├── samples/        # 로컬 스토리지에서 처리된 이미지 데이터 저장 폴더
+|   |── import/         # 직접 임포트 하고 라벨링한 데이터 저장 폴더더
 ├── .gitignore          # Git에서 제외할 파일 목록
 ├── README.md           # 프로젝트 설명 문서
 ├── test.ipynb          # 데이터 확인 및 분석을 위한 Jupyter Notebook
+├── work/               # 라벨스튜디오 작업 사진진
 ```
 
 ## 주요 파일 및 폴더 설명

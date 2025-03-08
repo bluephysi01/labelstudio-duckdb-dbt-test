@@ -1,0 +1,195 @@
+{
+  "id": 18,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            43.11377245508982,
+            32.93413173652694
+          ],
+          [
+            48.70259481037924,
+            37.12574850299401
+          ],
+          [
+            64.93679308050565,
+            40.7185628742515
+          ],
+          [
+            63.3399866932801,
+            37.3253493013972
+          ],
+          [
+            56.15435795076513,
+            33.93213572854291
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "C6BqH-ezl3",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            75.84830339321357,
+            69.061876247505
+          ],
+          [
+            64.93679308050565,
+            78.84231536926147
+          ],
+          [
+            68.39654025282768,
+            80.23952095808383
+          ],
+          [
+            77.44510978043913,
+            72.65469061876247
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "p3U0cwssTr",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            10.379241516966067,
+            53.89221556886228
+          ],
+          [
+            7.984031936127744,
+            64.27145708582835
+          ],
+          [
+            12.508316699933467,
+            67.46506986027944
+          ],
+          [
+            14.105123087159017,
+            62.874251497005986
+          ],
+          [
+            15.701929474384565,
+            50.69860279441117
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "wPs3VHB0ga",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "KUMHO"
+        ]
+      },
+      "id": "AvufKaYbjz",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "225/55/R16"
+        ]
+      },
+      "id": "PXlbo2C97w",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "1718"
+        ]
+      },
+      "id": "dCitLQSD8e",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 19,
+    "data": {
+      "ocr": "/data/local-files/?d=data%5Csamples%5C20250307_123409.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T07:26:28.594352Z",
+    "updated_at": "2025-03-07T07:26:28.594352Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-08T02:15:43.834748Z",
+  "updated_at": "2025-03-08T02:15:43.834748Z",
+  "draft_created_at": "2025-03-08T02:15:27.983659Z",
+  "lead_time": 39.384,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 7,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

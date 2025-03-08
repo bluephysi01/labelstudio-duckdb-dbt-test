@@ -1,0 +1,207 @@
+{
+  "id": 15,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            25.016633399866933,
+            34.73053892215569
+          ],
+          [
+            32.468396540252826,
+            37.72455089820359
+          ],
+          [
+            46.57351962741184,
+            33.93213572854291
+          ],
+          [
+            59.347970725216236,
+            32.93413173652694
+          ],
+          [
+            57.21889554224884,
+            30.13972055888224
+          ],
+          [
+            45.77511643379907,
+            28.74251497005988
+          ],
+          [
+            31.66999334664005,
+            31.137724550898206
+          ],
+          [
+            26.34730538922156,
+            33.13373253493014
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "xO1iv2kPXd",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            73.45309381237524,
+            73.05389221556887
+          ],
+          [
+            66.26746506986028,
+            78.64271457085829
+          ],
+          [
+            72.65469061876247,
+            80.23952095808383
+          ],
+          [
+            81.437125748503,
+            70.85828343313374
+          ],
+          [
+            77.1789753825682,
+            68.6626746506986
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "mFUYEfKfQD",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            21.290751829673983,
+            74.8502994011976
+          ],
+          [
+            24.484364604125084,
+            79.44111776447106
+          ],
+          [
+            30.605455755156353,
+            80.83832335329342
+          ],
+          [
+            28.74251497005988,
+            77.44510978043913
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "2JAdLA9pt4",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "HANKOOK"
+        ]
+      },
+      "id": "kKz200uZth",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "225/55/R18"
+        ]
+      },
+      "id": "PVbqfPbOva",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "1020"
+        ]
+      },
+      "id": "mZ-AinZqks",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 16,
+    "data": {
+      "ocr": "/data/local-files/?d=data%5Csamples%5C20250307_123339.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T07:26:28.566133Z",
+    "updated_at": "2025-03-07T07:26:28.566133Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-08T02:13:26.971605Z",
+  "updated_at": "2025-03-08T02:13:26.971605Z",
+  "draft_created_at": "2025-03-08T02:13:08.530368Z",
+  "lead_time": 44.334,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 7,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
