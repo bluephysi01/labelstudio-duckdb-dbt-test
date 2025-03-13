@@ -1,34 +1,40 @@
 # Label Studio DuckDB DBT Test
 
 ## 프로젝트 개요
-이 프로젝트는 Label Studio와 DuckDB, DBT(Data Build Tool)를 활용하여 데이터 처리 및 라벨링을 수행하는 테스트 환경을 구성하는 데 목적이 있습니다.
+- **목적**: Label Studio에서 YOLO 모델로 사전 어노테이션을 진행하고, 어노테이션 결과를 로컬에 저장/불러오는 과정을 사전 테스트 합니다.
+- **핵심 라이브러리**:  
+  - [Label Studio SDK](https://github.com/heartexlabs/label-studio-sdk)  
+  - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)  
 
 ## 폴더 구조
+```bash
+labelstudio-duckdb-dbt-test
+├── archive
+├── data
+│   ├── export
+│   ├── samples_generalpictures
+│   ├── samples_tires
+│   ├── tasks_generalpictures
+│   └── tasks_tires
+├── ls_ui_snaps
+├── .env
+├── .gitignore
+├── create_tasks.ipynb
+├── ls_sdk_preannotation.ipynb
+├── requirements.txt
+├── README.md
 ```
-LABELSTUDIO-DUCKDB-DBT-TEST/
-├── .venv/              # 가상 환경 폴더
-├── data/               # 원본 데이터 저장소
-│   ├── json/           # JSON 형식의 데이터 파일 저장 폴더
-│   ├── samples/        # 라벨링할 이미지 샘플 폴더
-├── output/             # 처리된 데이터 저장소
-│   ├── json/           # 라벨링된 JSON 데이터 저장 폴더
-│   ├── samples/        # 로컬 스토리지에서 처리된 이미지 데이터 저장 폴더
-|   |── import/         # 직접 임포트 하고 라벨링한 데이터 저장 폴더더
-├── .gitignore          # Git에서 제외할 파일 목록
-├── README.md           # 프로젝트 설명 문서
-├── test.ipynb          # 데이터 확인 및 분석을 위한 Jupyter Notebook
-├── work/               # 라벨스튜디오 작업 사진
-```
-
 ## 주요 파일 및 폴더 설명
-- `.venv/` : 프로젝트에서 사용할 Python 가상 환경을 저장하는 폴더입니다.
-- `data/json/` : Label Studio에서 사용할 JSON 파일을 저장하는 폴더입니다.
-- `data/samples/` : Label Studio에서 처리할 이미지 샘플이 위치하는 폴더입니다.
-- `output/json/` : Label Studio에서 처리 완료된 JSON 파일을 저장하는 폴더입니다.
-- `output/import/` : Label Studio에서 직접 임포트해서 처리 파일을 저장하는 폴더입니다.
-- `output/samples/` : Label Studio에서 처리된 이미지 데이터를 저장하는 폴더입니다.
-- `test.ipynb` : Jupyter Notebook을 사용하여 데이터를 분석하거나 시각화하는 데 사용됩니다.
-- `work/` : 라벨스튜디오에서 작업한 화면을 캡처한 이미지 저장 폴더입니다.
+- `archive`: 테스트과정의 파일들이 있는 폴더
+- `data`: Label Studio용 태스크 및 내보내기/가져오기 파일들
+- `export`: 내보낸 어노테이션 결과 저장 폴더
+- `samples_generalpictures`, `samples_tires`: 샘플 이미지 저장 폴더
+- `tasks_generalpictures`, `tasks_tires`: Label Studio에서 사용될 태스크 JSON 
+- `ls_ui_snaps`: UI 스냅샷(예: Label Studio 인터페이스 캡처)
+- `.env`: Label Studio API 키 등 환경 변수를 저장
+- `create_tasks.ipynb`: 태스크를 생성하기 위한 Jupyter 노트북
+- `ls_sdk_preannotation.ipynb`: Label Studio SDK를 활용해 사전 어노테이션을 수행하는 노트북
+- `requirements.txt`: 필요한 Python 패키지 목록
 
 ## Label Studio 설정 방법
 1. Label Studio 실행
@@ -39,15 +45,7 @@ LABELSTUDIO-DUCKDB-DBT-TEST/
    setx LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED "true" /M
    setx LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT "C:\Users\82102\dev\labelstudio-duckdb-dbt-test" /M
 
-3. Label Studio UI에서 프로젝트 설정 후 data/json 폴더를 데이터 소스로 추가합니다.
-
-4. JSON 파일을 업로드하여 태스크를 생성하고 라벨링을 진행합니다.
-
-## 데이터 처리 흐름
-1. data/samples/에 이미지 파일을 추가합니다.
-2. data/json/에 Label Studio에서 사용할 JSON 파일을 저장합니다.
-3. Label Studio에서 데이터를 불러와 라벨링을 진행합니다.
-4. 라벨링된 데이터는 output/json/과 혹은 output/samples/에 저장됩니다.
+3. 터미널에서 라벨스튜디오를 실행하고 `ls_sdk_preannotation.ipynb` 파일을 열어 셀을 실행합니다.
 
 ## 참고사항
 - JSON 파일의 경로는 LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT 환경 변수와 일치해야 합니다.
