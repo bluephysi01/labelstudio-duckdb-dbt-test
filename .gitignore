@@ -1,2 +1,8 @@
 # 가상 환경 폴더 무시
 .venv/
+.env
+yolo11n.pt
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
+archive/

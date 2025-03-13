@@ -1,0 +1,6 @@
+Pillow
+label-studio-sdk
+tqdm
+ultralytics
+requests
+python-dotenv

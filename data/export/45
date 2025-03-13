@@ -1,0 +1,280 @@
+{
+  "id": 45,
+  "result": [
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 30.402124023437498,
+        "y": 14.449235534667967,
+        "width": 68.45843098958333,
+        "height": 39.73584289550781,
+        "rotation": 0,
+        "rectanglelabels": [
+          "truck"
+        ]
+      },
+      "id": "3s1_7TcNFB",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.8936280608177185
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 11.735958353678386,
+        "y": 35.70892181396484,
+        "width": 7.4156443277994795,
+        "height": 15.665957641601564,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "Yns5WfpFHi",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.8479757905006409
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 104.31000976562498,
+        "y": 32.52446746826172,
+        "width": 5.683723958333333,
+        "height": 9.785366821289063,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "1MA1T8g3ft",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.8144451975822449
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.020439656575520833,
+        "y": 38.28022613525391,
+        "width": 4.645973714192708,
+        "height": 23.281405639648437,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "qX63H-NKWu",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.7986406683921814
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 23.433255004882813,
+        "y": 34.42082061767578,
+        "width": 6.621868896484375,
+        "height": 13.748056030273437,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "1TmshxAxlL",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.7427771687507629
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 108.52246907552083,
+        "y": 15.409515380859377,
+        "width": 24.7498046875,
+        "height": 42.09705810546875,
+        "rotation": 0,
+        "rectanglelabels": [
+          "truck"
+        ]
+      },
+      "id": "Lvzojq_FZK",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.6876515746116638
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 17.869163004557294,
+        "y": 35.551702880859374,
+        "width": 3.609077962239583,
+        "height": 9.334552001953126,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "rmgPCUVNtK",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.603704571723938
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 68.32510579427084,
+        "y": 23.46678237915039,
+        "width": 10.703352864583334,
+        "height": 5.970927429199219,
+        "rotation": 0,
+        "rectanglelabels": [
+          "car"
+        ]
+      },
+      "id": "-h34dvjCDc",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.43274036049842834
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 2.667499796549479,
+        "y": 33.446546936035155,
+        "width": 6.600262451171875,
+        "height": 6.961972045898437,
+        "rotation": 0,
+        "rectanglelabels": [
+          "truck"
+        ]
+      },
+      "id": "zWVnv6qHyV",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.3643224537372589
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 23.32909647623698,
+        "y": 34.88821716308594,
+        "width": 4.9607604980468745,
+        "height": 13.312347412109373,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "rW1QSRGrhe",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.29081955552101135
+    },
+    {
+      "original_width": 4000,
+      "original_height": 3000,
+      "image_rotation": 0,
+      "value": {
+        "x": 21.261972045898435,
+        "y": 35.69728240966797,
+        "width": 2.8642232259114584,
+        "height": 5.587100219726563,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "Lk2OismdsN",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "prediction",
+      "score": 0.2584216594696045
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 198,
+    "data": {
+      "image": "/data/local-files/?d=data/samples_generalpictures/20230512_135741.jpg"
+    },
+    "meta": {},
+    "created_at": "2025-03-13T08:49:25.261158Z",
+    "updated_at": "2025-03-13T09:06:21.765402Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 2,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 31,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-13T09:08:45.594917Z",
+  "updated_at": "2025-03-13T09:08:45.594917Z",
+  "draft_created_at": null,
+  "lead_time": 7.988,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 31,
+  "updated_by": 1,
+  "parent_prediction": 307,
+  "parent_annotation": null,
+  "last_created_by": null
+}
