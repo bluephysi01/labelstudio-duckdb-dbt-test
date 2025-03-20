@@ -1,0 +1,199 @@
+{
+  "id": 60,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            6.7035420849207235,
+            49.844152109846924
+          ],
+          [
+            10.015880526881551,
+            50.672236720337125
+          ],
+          [
+            11.277723742866627,
+            46.11777136264099
+          ],
+          [
+            13.091623365845177,
+            41.32671040194765
+          ],
+          [
+            15.851905400812532,
+            37.24543625024591
+          ],
+          [
+            19.321974244771496,
+            33.87394890753579
+          ],
+          [
+            23.02863869172766,
+            30.975652770820062
+          ],
+          [
+            21.21473906874911,
+            27.545016527360634
+          ],
+          [
+            17.192613817796676,
+            30.265865961828453
+          ],
+          [
+            12.381836556853571,
+            35.05692692252179
+          ],
+          [
+            8.438576506900203,
+            41.267561501198344
+          ],
+          [
+            7.019002888916994,
+            45.88117575964378
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "models"
+        ]
+      },
+      "id": "-Yr4Remz9I",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            24.527077510709937,
+            25.770549504881618
+          ],
+          [
+            25.236864319701553,
+            28.077356634104344
+          ],
+          [
+            29.81104597764745,
+            26.362038512374625
+          ],
+          [
+            35.09501444458496,
+            24.587571489895605
+          ],
+          [
+            40.852174117516874,
+            23.404593474909596
+          ],
+          [
+            40.93103931851594,
+            20.802041841940376
+          ],
+          [
+            33.91203642959895,
+            22.162466559174284
+          ],
+          [
+            29.337854771653042,
+            23.5820401771575
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "Z0rj0q9Z_A",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            11.876485483045334,
+            57.63552925864619
+          ],
+          [
+            12.944901881903526,
+            60.20640621839871
+          ],
+          [
+            14.770113229952933,
+            59.60542199404099
+          ],
+          [
+            13.746214181047167,
+            57.36842515893164
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "DOT"
+        ]
+      },
+      "id": "wO4RbVTk4w",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "21\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 215,
+    "data": {
+      "image": "/data/local-files/?d=data/samples_tires/20250307_123258.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-19T12:05:47.358071Z",
+    "updated_at": "2025-03-19T12:10:26.987540Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 33,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-19T12:10:26.918573Z",
+  "updated_at": "2025-03-19T12:10:26.918573Z",
+  "draft_created_at": "2025-03-19T12:09:18.372429Z",
+  "lead_time": 83.311,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 33,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

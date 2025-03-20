@@ -1,0 +1,187 @@
+{
+  "id": 69,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            84.26194670343351,
+            41.121660808706594
+          ],
+          [
+            79.87230961582543,
+            42.26678352721306
+          ],
+          [
+            83.78481223738915,
+            48.63652864890523
+          ],
+          [
+            85.02536184910448,
+            54.29057207153085
+          ],
+          [
+            84.54822738306012,
+            59.729904984436544
+          ],
+          [
+            83.21225087813593,
+            64.02411517883576
+          ],
+          [
+            87.69731485895288,
+            65.09766772743555
+          ],
+          [
+            89.51042582992143,
+            58.51321209602342
+          ],
+          [
+            89.22414515029482,
+            52.35817748405122
+          ],
+          [
+            88.07902243178837,
+            47.49140593039877
+          ],
+          [
+            85.9796307811932,
+            43.912897435066085
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "models"
+        ]
+      },
+      "id": "utiN4SivOs",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            70.52047408135603,
+            34.107784157854546
+          ],
+          [
+            68.80279000359634,
+            35.82546823561423
+          ],
+          [
+            72.04730437269797,
+            37.75786282309388
+          ],
+          [
+            73.76498845045765,
+            36.1833190851475
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "DOT"
+        ]
+      },
+      "id": "QziDuvAuvZ",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            84.07109291701576,
+            66.17122027603536
+          ],
+          [
+            80.82657854791414,
+            70.46543047043457
+          ],
+          [
+            76.34151456709718,
+            75.69005287362029
+          ],
+          [
+            78.44090621769234,
+            77.19302644166002
+          ],
+          [
+            85.02536184910448,
+            70.32229013062127
+          ],
+          [
+            86.55219214044642,
+            66.45750095566197
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "nn1egUQzfM",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 232,
+    "data": {
+      "image": "/data/local-files/?d=data/samples_tires/20250318_171111.jpg"
+    },
+    "meta": {},
+    "created_at": "2025-03-19T12:05:47.661196Z",
+    "updated_at": "2025-03-19T12:05:47.661196Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 33,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-19T12:28:54.236866Z",
+  "updated_at": "2025-03-19T12:28:54.236866Z",
+  "draft_created_at": "2025-03-19T12:28:15.242799Z",
+  "lead_time": 67.808,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 33,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

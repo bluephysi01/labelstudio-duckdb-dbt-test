@@ -1,0 +1,109 @@
+{
+  "id": 55,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "x": 35.75625429152445,
+        "y": 84.19400121302347,
+        "width": 26.693037057908874,
+        "height": 6.331836697457462,
+        "rotation": 0,
+        "rectanglelabels": [
+          "\ubaa8\ub378\uba85"
+        ]
+      },
+      "id": "XsEgL8AeEc",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "x": 33.89394938050752,
+        "y": 36.984571718745116,
+        "width": 19.36797107457576,
+        "height": 4.0039555586863536,
+        "rotation": 0,
+        "rectanglelabels": [
+          "\uc0ac\uc774\uc988"
+        ]
+      },
+      "id": "fiw8NISQVe",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "x": 22.556579105973228,
+        "y": 44.79707916053175,
+        "width": 3.9729286926053824,
+        "height": 3.0155964775197504,
+        "rotation": 0,
+        "rectanglelabels": [
+          "DOT"
+        ]
+      },
+      "id": "gQZB3IMk0e",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "10\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 210,
+    "data": {
+      "image": "/data/local-files/?d=data/samples_tires/20250307_123350.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-18T05:49:50.413264Z",
+    "updated_at": "2025-03-18T06:06:27.945919Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 32,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-18T06:06:27.889004Z",
+  "updated_at": "2025-03-18T06:06:27.889004Z",
+  "draft_created_at": "2025-03-18T06:05:53.584300Z",
+  "lead_time": 49.467,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 32,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

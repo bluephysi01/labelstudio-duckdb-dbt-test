@@ -1,0 +1,183 @@
+{
+  "id": 64,
+  "result": [
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            65.29108033350988,
+            29.69210119198653
+          ],
+          [
+            61.82708411002784,
+            32.60500710718733
+          ],
+          [
+            69.48986363470021,
+            36.93500238653987
+          ],
+          [
+            76.6277952467238,
+            40.95008891830314
+          ],
+          [
+            79.6719131400868,
+            37.87972862930771
+          ],
+          [
+            72.42901194553346,
+            32.68373429408465
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "models"
+        ]
+      },
+      "id": "FYGDz8F2Pu",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            13.12119781621984,
+            70.39405681790043
+          ],
+          [
+            16.060346127053084,
+            69.52805776202993
+          ],
+          [
+            13.751015311398392,
+            65.35551685647202
+          ],
+          [
+            12.281441155981772,
+            60.86806720332485
+          ],
+          [
+            11.861562825862737,
+            55.986981615691064
+          ],
+          [
+            12.38641073851153,
+            52.44425820531171
+          ],
+          [
+            9.027384097559253,
+            51.184623214954605
+          ],
+          [
+            8.082657854791426,
+            56.538071923972296
+          ],
+          [
+            9.027384097559253,
+            62.36388375437391
+          ],
+          [
+            10.601927835505633,
+            66.5364246599318
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "QHzvoCMcdd",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3000,
+      "original_height": 4000,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            24.85995857698549,
+            73.88602171686631
+          ],
+          [
+            23.49714894289191,
+            74.86368949784651
+          ],
+          [
+            26.045010432719035,
+            76.5079489476768
+          ],
+          [
+            27.289314881239253,
+            75.4414022775166
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "DOT"
+        ]
+      },
+      "id": "STs3A4qbtI",
+      "from_name": "label",
+      "to_name": "img",
+      "type": "polygonlabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " bluephysi01@gmail.com, 1",
+  "created_ago": "14\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "bluephysi01@gmail.com"
+  },
+  "task": {
+    "id": 227,
+    "data": {
+      "image": "/data/local-files/?d=data/samples_tires/20250312_092823.jpg"
+    },
+    "meta": {},
+    "created_at": "2025-03-19T12:05:47.533254Z",
+    "updated_at": "2025-03-19T12:17:50.100222Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 33,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-19T12:17:50.040553Z",
+  "updated_at": "2025-03-19T12:17:50.040553Z",
+  "draft_created_at": "2025-03-19T12:17:11.407151Z",
+  "lead_time": 62.81,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 33,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,4 +1,0 @@
-train: C:\Users\82102\dev\labelstudio-duckdb-dbt-test\yolo_dataset\train\images
-val: C:\Users\82102\dev\labelstudio-duckdb-dbt-test\yolo_dataset\val\images
-nc: 3
-names: ["모델명", "사이즈", "DOT"]
